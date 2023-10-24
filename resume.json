@@ -4,15 +4,14 @@
   },
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
-    "name": "James Petty, M.S.",
-    "label": "Director of IT at TextRequest | Microsoft MVP | Author | CEO at The DevOps Collective INC.",
+    "name": "James Petty",
+    "label": "Director of IT at TextRequest | Microsoft MVP | Author | Speaker | CEO at The DevOps Collective INC.",
     "image": "https://avatars.githubusercontent.com/u/38379414?v=4",
-    "email": "jmpetty714@gmail.com",
-    "phone": "",
-    "summary": "I serve as the CEO and Executive Director for the DevOps Collective INC (and PowerShell.org) a 501(c)3 nonprofit. My primary duties are to plan the PowerShell + DevOps global summit held each April and the DevOps + Automation summit held in October. I am responsible for overseeing a 1.1-Million-dollar budget and help coordinate or 20+ volunteers that help run the organization.\n\nI am also an IT professional living in Chattanooga with many areas of interested including Automation, PowerShell, and Windows server administration. I am an Eagle Scout (2006) and a Vigil Honor member of the Order of the Arrow. \n\nI am also a contributing Author to the PowerShell Conference book Volume I. I am the co-founder of the Chattanooga PowerShell user group and the Co-Chair for PowerShell on the River, a 2 day PowerShell conference hosted each August (since 2018), ",
+    "email": "james.petty714@outlook.com",
+    "summary": "James currently holds the position of Director of Information Technology at TextRequest. He is a four-time awardee of the Microsoft MVP award. In a dedicated capacity, he also assumes the role of volunteer CEO at DevOps Collective INC, a non-profit organization operating within technology education. The organization's primary focus revolves around PowerShell, automation, and DevOps. It has garnered recognition for providing an array of free online resources, notably including PowerShell.org. /nIn the literary domain, James is lead author of two published works: 'Learn PowerShell in a Month of Lunches' now in its fourth edition, and 'Learn PowerShell Scripting in a Month of Lunches,' in its second edition. Both of these insightful publications are proudly published by Manning./nAt the core of James's passion lies the realm of automation, where he adeptly wields tools like PowerShell, Azure, and all facets related to Windows Server environments. His prowess in this domain has been honed over more than a decade of service as an infrastructure administrator, catering to businesses spanning a diverse range of sizes./n James has woven his life in the tranquil environs outside Chattanooga, Tennessee, where he resides with his cherished wife, daughters, two dogs, and two cats."    
     "location": {
       "countryCode": "US",
-      "address": "United States"
+      "address": "Signal Mountain, TN"
     },
     "profiles": [
       {
