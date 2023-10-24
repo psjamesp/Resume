@@ -19,6 +19,11 @@
         "network": "LinkedIn",
         "username": "james-petty-m-s-75672b42",
         "url": "https://www.linkedin.com/in/james-petty-m-s-75672b42/"
+      },
+      {
+        "network": "github",
+        "username": "PSJamesP",
+        "url": "https://github.com/PSJamesP/"
       }
     ]
   },
@@ -206,112 +211,48 @@
       "url": "https://www.credly.com/badges/43e4c569-276d-4190-8823-4ddea7c084cb/linked_in_profile"
     }
   ],
-  "publications": [],
+  "publications": [
+    {"name" : "Learn PowerShell in a Month of Lunches 4th Edition",
+    "publisher": "Manning",
+    "releaseDate": "2022-13-01",
+    "url": "https://www.manning.com/books/learn-powershell-in-a-month-of-lunches",
+    "summary": "Designed for busy IT professionals, this innovative guide will take you from the basics to PowerShell proficiency through 25 tutorials you can do in your lunch break."
+  },
+  {"name" : "Learn PowerShell Scripting in a Month of Lunches 4th Edition",
+    "publisher": "Manning",
+    "url": "https://www.manning.com/books/learn-powershell-scripting-in-a-month-of-lunches-second-edition",
+    "summary": "Automate complex tasks and processes with PowerShell scripts. This amazing book teaches you how to write, test, and organize high-quality, reusable scripts for Windows, Linux, and cloud-based systems."
+  }
+  ],
   "skills": [
     {
-      "name": "Cloud Computing",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "GitHub",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "IT Management",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Hyper-V",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "System Administration",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Windows Server 2012 R2",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Information Technology",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Powershell",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Windows Server 2016",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Customer Service",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Office 365",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Leadership",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "SCCM",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Windows Server",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Troubleshooting",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Active Directory",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Microsoft Word",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Automation",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Public Speaking",
-      "level": "",
-      "keywords": []
+      "name": "Microsoft",
+      "level": "Senior",
+      "keywords": [
+        "PowerShell",
+        "Azure",
+        "Active Directory",
+        "Hyper-V",
+        "Intune"
+      ]
     },
     {
       "name": "DevOps",
       "level": "",
-      "keywords": []
+      "keywords": [
+        "GitHub",
+        "Continuous Integration and Continuous Delivery (CI/CD)",
+        "Open Source"
+      ]
     },
     {
-      "name": "Microsoft Azure",
+      "name": "Community Engagement",
       "level": "",
-      "keywords": []
+      "keywords": [
+        "Speaker",
+        "Conference Organizer",
+        "Microsoft MVP"
+      ]
     }
   ],
   "languages": [
@@ -319,8 +260,5 @@
       "language": "English",
       "fluency": "Native Speaker"
     }
-  ],
-  "interests": [],
-  "references": [],
-  "projects": []
+  ]
 }
