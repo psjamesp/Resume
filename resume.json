@@ -112,19 +112,11 @@
   ],
   "volunteer": [
     {
-      "organization": "Talidandaganu' 293 Order of the Arrow Lodge",
-      "position": "Associate Lodge Adviser - Boy Scouts of America",
-      "startDate": "2013-08-31",
-      "endDate": "2018-11-30",
-      "summary": null,
-      "highlights": []
-    },
-    {
       "organization": "Tau Kappa Epsilon of Cookeville INC",
       "position": "Board Member",
       "startDate": "2012-05-31",
       "endDate": "2014-05-31",
-      "summary": null,
+      "summary": "Voting member for the Board of Advisors for the Mu Omciron Chapter of Tau Kappa Epsilon",
       "highlights": []
     },
     {
@@ -139,11 +131,19 @@
       "organization": "Tau Kappa Epsilong of Cookeville INC",
       "position": "Board President",
       "startDate": "2018-11-30",
-      "summary": null,
+      "summary": "Chairman of the board",
       "highlights": []
     }
   ],
   "education": [
+    {
+      "institution": "Lliberty University",
+      "area": "Doctor of Business Administration",
+      "studyType": "Management Information Systems",
+      "startDate": "2023-08-01",
+      "score": "",
+      "courses": []
+    },
     {
       "institution": "University of Alabama at Birmingham",
       "area": "Information Technology",
