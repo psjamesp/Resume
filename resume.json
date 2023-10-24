@@ -1,0 +1,336 @@
+{
+        "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+    "basics": {
+      "name": "James Petty, M.S.",
+      "label": "Director of IT at TextRequest | Microsoft MVP | Author | CEO at The DevOps Collective INC.",
+      "image": "",
+      "email": "jmpetty714@gmail.com",
+      "phone": "",
+      "url": "",
+      "summary": "I serve as the CEO and Executive Director for the DevOps Collective INC (and PowerShell.org) a 501(c)3 nonprofit. My primary duties are to plan the PowerShell + DevOps global summit held each April and the DevOps + Automation summit held in October. I am responsible for overseeing a 1.1-Million-dollar budget and help coordinate or 20+ volunteers that help run the organization.\n\nI am also an IT professional living in Chattanooga with many areas of interested including Automation, PowerShell, and Windows server administration. I am an Eagle Scout (2006) and a Vigil Honor member of the Order of the Arrow. \n\nI am also a contributing Author to the PowerShell Conference book Volume I. I am the co-founder of the Chattanooga PowerShell user group and the Co-Chair for PowerShell on the River, a 2 day PowerShell conference hosted each August (since 2018), ",
+      "location": {
+        "countryCode": "US",
+        "address": "United States"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "james-petty-m-s-75672b42",
+          "url": "https://www.linkedin.com/in/james-petty-m-s-75672b42/"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "Text Request",
+        "position": "Director of Information Technology",
+        "startDate": "2022-11-30",
+        "endDate": "",
+        "highlights": [],
+        "summary": "My role encompassed many responsibilities, including laptop procurement, user role-based provisioning, and de-provisioning. I also ensured robust endpoint security measures across Text Request. I handled the configuration of various SaaS software applications, which involved procurement, license management, and setting default security parameters. My duties extended to managing Identity and Access Management (IAM) processes throughout Text Request. I navigated various IAM solutions, such as Azure AD and Google Business, alongside one-off logins that do not allow SSO. To optimize efficiency, I spearheaded efforts to consolidate and streamline these solutions, favoring Azure AD or a combination of Azure AD and Google when necessary. Furthermore, I was pivotal in constructing monitoring and alert dashboards for proactive IT oversight. I worked closely with department heads to identify existing processes, leveraging IT solutions to simplify operations and enhance productivity, saving valuable time company-wide. I maintain our SOC2 Type 2 compliance and work directly with our auditors to ensure a successful audit.",
+        "url": "https://www.linkedin.com/company/text-request/",
+        "location": "Chattanooga, Tennessee, United States"
+      },
+      {
+        "name": "Chattanooga State Community College",
+        "position": "Adjunct Professor",
+        "startDate": "2022-08-31",
+        "endDate": "",
+        "highlights": [],
+        "summary": "o\tUtilize variety of technologies and instructional methodologies to keep courses fresh and engaging.\no\tWork with individual students to improve understanding and course grades.\no\tHelp students develop talent through range of exercises, readings, and discussions.",
+        "url": "https://www.linkedin.com/school/chattanooga-state-community-college/",
+        "location": "Chattanooga, TN"
+      },
+      {
+        "name": "The DevOps Collective INC. ",
+        "position": "CEO",
+        "startDate": "2019-06-30",
+        "endDate": "",
+        "highlights": [],
+        "url": ""
+      },
+      {
+        "name": "The DevOps Collective INC. ",
+        "position": "VP, Treasure and CFO",
+        "startDate": "2018-04-30",
+        "endDate": "2022-11-30",
+        "highlights": [],
+        "summary": "Serve as a volunteer member of the board of directors for the DevOps Collective CFO for DevOps Collective, Inc., a 501(c)(3) nonprofit working in the technology education space, as the Vice President and Chief Financial Officer. Help manage a $600k+ annual budget that includes scholarship programs and a 400-attendee annual community event. The nonprofit is focused on PowerShell, automation, and DevOps, and also runs numerous free online resources including PowerShell.org.",
+        "url": ""
+      },
+      {
+        "name": "WYRE Technology",
+        "position": "Solutions Architect",
+        "startDate": "2021-02-28",
+        "endDate": "2022-11-30",
+        "highlights": [],
+        "url": "https://www.linkedin.com/company/wyre-technology/",
+        "location": "Chattanooga, Tennessee, United States"
+      },
+      {
+        "name": "714 Consulting",
+        "position": "Owner",
+        "startDate": "2019-07-31",
+        "endDate": "2022-11-30",
+        "highlights": [],
+        "summary": "Providing IT training and consulting services. Specializing in Windows Automation, PowerShell, Office 365, and Azure.",
+        "url": "",
+        "location": "Signal Mountain, Tennessee, United States"
+      },
+      {
+        "name": "Tennessee Valley Authority",
+        "position": "Windows Server Administrator",
+        "startDate": "2012-05-31",
+        "endDate": "2019-06-30",
+        "highlights": [],
+        "summary": "Working in a large enterprise helping to support over 2200 servers running the Windows Server operating system from 2003 -2016.\nResponsible for patch compliance and baseline compliance on all Windows servers. Using System Center Configuration Manger (current branch).\nLead for the enterprise Print Management system. I designed and implemented a new architecture resulting in significant reduction in downtime due to human error and gained a major performance boost.\nTechnical lead for the evaluation and implementation of the Windows Server 2016 operating system. Testing new capabilities and working with a cross team of administrators we were able to roll out the operating system enterprise wide with in 18 months of the OS becoming Generally Available by Microsoft. \nTechnical lead for the implementation of Just Enough  Administration for use by tier 2 helpdesk technicians on 1500+ servers.",
+        "url": "https://www.linkedin.com/company/tva/",
+        "location": "Chattanooga, Tennessee Area"
+      },
+      {
+        "name": "Tennessee Technological University",
+        "position": "Resnet Support",
+        "startDate": "2009-08-31",
+        "endDate": "2012-05-31",
+        "highlights": [],
+        "summary": "Helped students resolve their issues when connecting to the Residential Network at TTU by phone or email.",
+        "url": "https://www.linkedin.com/school/tennessee-technological-university/"
+      },
+      {
+        "name": "Hutchinson FTS",
+        "position": "Network Administrator",
+        "startDate": "2009-05-31",
+        "endDate": "2009-08-31",
+        "highlights": [],
+        "url": "https://www.linkedin.com/company/hutchinson/"
+      },
+      {
+        "name": "Tennessee Attorney General's Office",
+        "position": "IT Intern",
+        "startDate": "2007-05-31",
+        "endDate": "2007-08-31",
+        "highlights": [],
+        "url": "https://www.linkedin.com/company/tennessee-attorney-general's-office/"
+      }
+    ],
+    "volunteer": [
+      {
+        "organization": "Talidandaganu' 293 Order of the Arrow Lodge",
+        "position": "Associate Lodge Adviser - Boy Scouts of America",
+        "startDate": "2013-08-31",
+        "endDate": "2018-11-30",
+        "summary": null,
+        "highlights": [],
+        "url": ""
+      },
+      {
+        "organization": "Tau Kappa Epsilon of Cookeville INC",
+        "position": "Board Member",
+        "startDate": "2012-05-31",
+        "endDate": "2014-05-31",
+        "summary": null,
+        "highlights": [],
+        "url": ""
+      },
+      {
+        "organization": "Tau Kappa Epsilon of Cookeville INC",
+        "position": "Treasurer",
+        "startDate": "2014-08-31",
+        "endDate": "2018-11-30",
+        "summary": "Treasurer for Board of Advisers for the Mu Omicron Chapter of Tau Kappa Epsilon, Tennessee Technological University.\n\nPrimary responsibilities overseeing a $60,000 operating budget, filing all state and federal documents (including yearly 990N for the IRS).",
+        "highlights": [],
+        "url": ""
+      },
+      {
+        "organization": "Tau Kappa Epsilong of Cookeville INC",
+        "position": "Board President",
+        "startDate": "2018-11-30",
+        "endDate": "",
+        "summary": null,
+        "highlights": [],
+        "url": ""
+      }
+    ],
+    "education": [
+      {
+        "institution": "University of Alabama at Birmingham",
+        "area": "Information Technology",
+        "studyType": "Management Information Systems",
+        "startDate": "2020-09-30",
+        "endDate": "2022-05-31",
+        "score": "",
+        "courses": []
+      },
+      {
+        "institution": "Tennessee Technological University",
+        "area": "Computer Science (Information Technology)",
+        "studyType": "Bachelor of Science",
+        "startDate": "2007-12-31",
+        "endDate": "2012-12-31",
+        "score": "",
+        "courses": []
+      },
+      {
+        "institution": "Creek Wood High School",
+        "area": "",
+        "studyType": "High School Diploma",
+        "startDate": "2004-12-31",
+        "endDate": "2007-12-31",
+        "score": "",
+        "courses": []
+      }
+    ],
+    "awards": [
+      {
+        "title": "Vigil Honor",
+        "date": "2006-09-30",
+        "awarder": "Boy Scouts of America",
+        "summary": "The Vigil Honor is the highest honor that the Order of the Arrow can bestow upon its members for service to lodge, council, and Scouting. Membership cannot be won by a person's conscious endeavors.\n\nThe Vigil Honor is a high mark of distinction and recognition reserved for those Arrowmen who, by reason of exceptional service, personal effort, and unselfish interest, have made distinguished contributions beyond the immediate responsibilities of their position of office to one or more of the following:\n\n    Lodge\n    Order of the Arrow\n    Scouting community\n    Scout Camp\n"
+      },
+      {
+        "title": "Eagle Scout",
+        "date": "2006-01-31",
+        "awarder": "Boy Scouts of America",
+        "summary": "Eagle Scout is the highest achievement or rank attainable in the Boy Scouting program of the Boy Scouts of America (BSA). The designation \"Eagle Scout\" was founded over one hundred years ago. Only four percent of Boy Scouts are granted this rank after a lengthy review process.[2] The requirements necessary to achieve this rank take years to fulfill. Since its founding, the Eagle Scout rank has been earned by almost 2.5 million young men"
+      }
+    ],
+    "certificates": [
+      {
+        "name": "ITIL Foundations",
+        "issuer": "CSME, Inc.",
+        "startDate": "2012-06-30"
+      },
+      {
+        "name": "Microsoft Certified: Azure Fundamentals",
+        "issuer": "Microsoft",
+        "startDate": "2023-02-28",
+        "url": "https://www.credly.com/badges/43e4c569-276d-4190-8823-4ddea7c084cb/linked_in_profile"
+      },
+      {
+        "name": "2023 Microsoft Most Valuable Professional (MVP)",
+        "issuer": "Microsoft",
+        "startDate": "2023-07-31",
+        "url": "https://www.credly.com/badges/a966a46e-3361-4ef0-8298-fa9b0108d00f/linked_in_profile"
+      }
+    ],
+    "publications": [],
+    "skills": [
+      {
+        "name": "Cloud Computing",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "GitHub",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "IT Management",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Hyper-V",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "System Administration",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Windows Server 2012 R2",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Information Technology",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Powershell",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Windows Server 2016",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Customer Service",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Office 365",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Leadership",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "SCCM",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Windows Server",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Troubleshooting",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Active Directory",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Microsoft Word",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Automation",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Public Speaking",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "DevOps",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Microsoft Azure",
+        "level": "",
+        "keywords": []
+      }
+    ],
+    "languages": [
+      {
+        "language": "English",
+        "fluency": "Native Speaker"
+      }
+    ],
+    "interests": [],
+    "references": [],
+    "projects": [],
+    "meta": {
+        "theme": "elegant"
+    }
+  }
