@@ -175,19 +175,25 @@
   ],
   "awards": [
     {
-      "title": "Vigil Honor",
-      "date": "2006-09-30",
-      "awarder": "Boy Scouts of America",
-      "summary": "The Vigil Honor is the highest honor that the Order of the Arrow can bestow upon its members for service to lodge, council, and Scouting. Membership cannot be won by a person's conscious endeavors.\n\nThe Vigil Honor is a high mark of distinction and recognition reserved for those Arrowmen who, by reason of exceptional service, personal effort, and unselfish interest, have made distinguished contributions beyond the immediate responsibilities of their position of office to one or more of the following:\n\n    Lodge\n    Order of the Arrow\n    Scouting community\n    Scout Camp\n"
-    },
-    {
       "title": "Eagle Scout",
       "date": "2006-01-31",
       "awarder": "Boy Scouts of America",
       "summary": "Eagle Scout is the highest achievement or rank attainable in the Boy Scouting program of the Boy Scouts of America (BSA). The designation \"Eagle Scout\" was founded over one hundred years ago. Only four percent of Boy Scouts are granted this rank after a lengthy review process.[2] The requirements necessary to achieve this rank take years to fulfill. Since its founding, the Eagle Scout rank has been earned by almost 2.5 million young men"
-    }
+    },
+    {
+      "title": "Vigil Honor",
+      "date": "2006-09-30",
+      "awarder": "Boy Scouts of America",
+      "summary": "The Vigil Honor is the highest honor that the Order of the Arrow can bestow upon its members for service to lodge, council, and Scouting. Membership cannot be won by a person's conscious endeavors.\n\nThe Vigil Honor is a high mark of distinction and recognition reserved for those Arrowmen who, by reason of exceptional service, personal effort, and unselfish interest, have made distinguished contributions beyond the immediate responsibilities of their position of office."
+    }    
   ],
   "certificates": [
+    {
+      "name": "2023 Microsoft Most Valuable Professional (MVP)",
+      "issuer": "Microsoft",
+      "startDate": "2023-07-31",
+      "url": "https://www.credly.com/badges/a966a46e-3361-4ef0-8298-fa9b0108d00f/linked_in_profile"
+    },
     {
       "name": "ITIL Foundations",
       "issuer": "CSME, Inc.",
@@ -198,12 +204,6 @@
       "issuer": "Microsoft",
       "startDate": "2023-02-28",
       "url": "https://www.credly.com/badges/43e4c569-276d-4190-8823-4ddea7c084cb/linked_in_profile"
-    },
-    {
-      "name": "2023 Microsoft Most Valuable Professional (MVP)",
-      "issuer": "Microsoft",
-      "startDate": "2023-07-31",
-      "url": "https://www.credly.com/badges/a966a46e-3361-4ef0-8298-fa9b0108d00f/linked_in_profile"
     }
   ],
   "publications": [],
