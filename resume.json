@@ -6,10 +6,8 @@
   "basics": {
     "name": "James Petty, M.S.",
     "label": "Director of IT at TextRequest | Microsoft MVP | Author | CEO at The DevOps Collective INC.",
-    "image": "",
     "email": "jmpetty714@gmail.com",
     "phone": "",
-    "url": "",
     "summary": "I serve as the CEO and Executive Director for the DevOps Collective INC (and PowerShell.org) a 501(c)3 nonprofit. My primary duties are to plan the PowerShell + DevOps global summit held each April and the DevOps + Automation summit held in October. I am responsible for overseeing a 1.1-Million-dollar budget and help coordinate or 20+ volunteers that help run the organization.\n\nI am also an IT professional living in Chattanooga with many areas of interested including Automation, PowerShell, and Windows server administration. I am an Eagle Scout (2006) and a Vigil Honor member of the Order of the Arrow. \n\nI am also a contributing Author to the PowerShell Conference book Volume I. I am the co-founder of the Chattanooga PowerShell user group and the Co-Chair for PowerShell on the River, a 2 day PowerShell conference hosted each August (since 2018), ",
     "location": {
       "countryCode": "US",
@@ -28,7 +26,6 @@
       "name": "Text Request",
       "position": "Director of Information Technology",
       "startDate": "2022-11-30",
-      "endDate": "",
       "highlights": [],
       "summary": "My role encompassed many responsibilities, including laptop procurement, user role-based provisioning, and de-provisioning. I also ensured robust endpoint security measures across Text Request. I handled the configuration of various SaaS software applications, which involved procurement, license management, and setting default security parameters. My duties extended to managing Identity and Access Management (IAM) processes throughout Text Request. I navigated various IAM solutions, such as Azure AD and Google Business, alongside one-off logins that do not allow SSO. To optimize efficiency, I spearheaded efforts to consolidate and streamline these solutions, favoring Azure AD or a combination of Azure AD and Google when necessary. Furthermore, I was pivotal in constructing monitoring and alert dashboards for proactive IT oversight. I worked closely with department heads to identify existing processes, leveraging IT solutions to simplify operations and enhance productivity, saving valuable time company-wide. I maintain our SOC2 Type 2 compliance and work directly with our auditors to ensure a successful audit.",
       "url": "https://www.linkedin.com/company/text-request/",
@@ -38,9 +35,8 @@
       "name": "Chattanooga State Community College",
       "position": "Adjunct Professor",
       "startDate": "2022-08-31",
-      "endDate": "",
       "highlights": [],
-      "summary": "o\tUtilize variety of technologies and instructional methodologies to keep courses fresh and engaging.\no\tWork with individual students to improve understanding and course grades.\no\tHelp students develop talent through range of exercises, readings, and discussions.",
+      "summary": "Utilize variety of technologies and instructional methodologies to keep courses fresh and engaging.\no\tWork with individual students to improve understanding and course grades.\no\tHelp students develop talent through range of exercises, readings, and discussions.",
       "url": "https://www.linkedin.com/school/chattanooga-state-community-college/",
       "location": "Chattanooga, TN"
     },
@@ -48,9 +44,8 @@
       "name": "The DevOps Collective INC. ",
       "position": "CEO",
       "startDate": "2019-06-30",
-      "endDate": "",
       "highlights": [],
-      "url": ""
+      "url": "https://devopscollective.org"
     },
     {
       "name": "The DevOps Collective INC. ",
@@ -59,7 +54,7 @@
       "endDate": "2022-11-30",
       "highlights": [],
       "summary": "Serve as a volunteer member of the board of directors for the DevOps Collective CFO for DevOps Collective, Inc., a 501(c)(3) nonprofit working in the technology education space, as the Vice President and Chief Financial Officer. Help manage a $600k+ annual budget that includes scholarship programs and a 400-attendee annual community event. The nonprofit is focused on PowerShell, automation, and DevOps, and also runs numerous free online resources including PowerShell.org.",
-      "url": ""
+      "url": "https://devopscollective.org"
     },
     {
       "name": "WYRE Technology",
@@ -77,7 +72,6 @@
       "endDate": "2022-11-30",
       "highlights": [],
       "summary": "Providing IT training and consulting services. Specializing in Windows Automation, PowerShell, Office 365, and Azure.",
-      "url": "",
       "location": "Signal Mountain, Tennessee, United States"
     },
     {
@@ -123,8 +117,7 @@
       "startDate": "2013-08-31",
       "endDate": "2018-11-30",
       "summary": null,
-      "highlights": [],
-      "url": ""
+      "highlights": []
     },
     {
       "organization": "Tau Kappa Epsilon of Cookeville INC",
@@ -132,8 +125,7 @@
       "startDate": "2012-05-31",
       "endDate": "2014-05-31",
       "summary": null,
-      "highlights": [],
-      "url": ""
+      "highlights": []
     },
     {
       "organization": "Tau Kappa Epsilon of Cookeville INC",
@@ -141,17 +133,14 @@
       "startDate": "2014-08-31",
       "endDate": "2018-11-30",
       "summary": "Treasurer for Board of Advisers for the Mu Omicron Chapter of Tau Kappa Epsilon, Tennessee Technological University.\n\nPrimary responsibilities overseeing a $60,000 operating budget, filing all state and federal documents (including yearly 990N for the IRS).",
-      "highlights": [],
-      "url": ""
+      "highlights": []
     },
     {
       "organization": "Tau Kappa Epsilong of Cookeville INC",
       "position": "Board President",
       "startDate": "2018-11-30",
-      "endDate": "",
       "summary": null,
-      "highlights": [],
-      "url": ""
+      "highlights": []
     }
   ],
   "education": [
